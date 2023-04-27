@@ -48,12 +48,8 @@ header {
   font-size: 1.5rem;
   text-transform: uppercase;
   font-weight: bolder;
-  width: 50%;
-  text-align: center;
-}
-
-nav {
-width: 50%;
+  text-align: left;
+  padding: 1rem;
 }
 
 nav ul {
@@ -65,10 +61,11 @@ nav ul {
   display: flex;
   flex-flow: wrap;
   justify-content: space-evenly;
+  align-items: center;
 }
 
 nav li {
-  padding: 1rem;
+  padding: 2rem;
   font-size: 1rem;
 
 }
