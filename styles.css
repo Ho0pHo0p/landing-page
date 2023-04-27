@@ -48,8 +48,7 @@ header {
   font-size: 1.5rem;
   text-transform: uppercase;
   font-weight: bolder;
-  text-align: left;
-  padding: 1rem;
+  padding: 2rem;
 }
 
 nav ul {
@@ -74,4 +73,19 @@ nav li {
   text-transform: uppercase;
 }
 
+/* hero page */
 
+.hero {
+  background-color: #1F2937;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  width: 100%;
+  color: #F9FAF8;
+}
+
+
+
+img {
+  
+}
